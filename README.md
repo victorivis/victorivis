@@ -1,6 +1,5 @@
 # Greetings, traveller!
-Meu nome é Victor Ivis, sou estudante de Análise e Desenvolvimento de Sistemas no IFPB atualmente cursando o 2º Período.
-Entusiasta no desenvolvimento Back-End, com uma predileção para e C/C++. Gosto de desafios matemáticos no tempo livre.
+Gosto de C/C++ e programação competitiva
 
 # Contato
 ivis.rolim@gmail.com
